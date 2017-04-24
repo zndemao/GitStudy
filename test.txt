@@ -1,5 +1,2 @@
 Git is a version control system.
 Git is free software.
-EOF
-cat test.txt
-EOF
